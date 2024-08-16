@@ -11,7 +11,10 @@ date: 2024-8-15
 - FTPでアクセス  
 - Burp SuiteでHTTPリクエストを編集  
 ### #02 DC-1
-
+- Metasploit Frameworkを用いたexploits  
+- droopescanでDrupalなどのCMSをスキャン  
+- Exploit DatabaseでExploitやPoCコードなどを調査  
+- GTFOBinsでLinuxnoローカル権限昇格を調査  
 ### #03 DC-2
 
 ### #04 Napping
