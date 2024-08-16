@@ -25,7 +25,10 @@ $ sudo netenum 192.168.x.0/24 [タイムアウト値] [冗長モード0~3(1以�
 - hpingコマンド：Pingやポートスキャン  
 - 脆弱性：タブナビング攻撃  
 - Wfuzzでファジングを実現する  
-
+  
+### #05 Victim  
+- netdiscoverでLAN内の端末IPを特定
+- 
 
 
 
