@@ -34,3 +34,13 @@ $ sudo netenum 192.168.x.0/24 [タイムアウト値] [冗長モード0~3(1以�
     -P0 : ホストの存在を調べない  
 - gobuster ファイル、ディレクトリを探索  
 - tshark wiresharkのCUI版  
+
+### #06 Pwnlab  
+- nmap  
+    -sS SYNスキャン  
+    -A 各サービスの詳細を表示  
+    -T4 やや高速にスキャン  
+    -oN 標準出力の内容をファイルに出力  
+- nikto HTTPサービスの情報収集  
+- Burp HTTP通信の改ざん
+
